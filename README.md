@@ -1,4 +1,4 @@
-# Tp2--Ordenadores Alcón 
+# Tp2: Ordenadores Alcón 
 ### Aplicación destinada a la gestión de una tienda de ordenadores.
 
 # Requisitos.
